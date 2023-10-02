@@ -1,0 +1,15 @@
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/bin/Debug/net7.0/Composition_Vehicle
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/bin/Debug/net7.0/Composition_Vehicle.deps.json
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/bin/Debug/net7.0/Composition_Vehicle.runtimeconfig.json
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/bin/Debug/net7.0/Composition_Vehicle.dll
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/bin/Debug/net7.0/Composition_Vehicle.pdb
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/Composition_Vehicle.csproj.AssemblyReference.cache
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/Composition_Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/Composition_Vehicle.AssemblyInfoInputs.cache
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/Composition_Vehicle.AssemblyInfo.cs
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/Composition_Vehicle.csproj.CoreCompileInputs.cache
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/Composition_Vehicle.dll
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/refint/Composition_Vehicle.dll
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/Composition_Vehicle.pdb
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/Composition_Vehicle.genruntimeconfig.cache
+/Users/hamza_issa88/Projects/Composition_Vehicle/Composition_Vehicle/obj/Debug/net7.0/ref/Composition_Vehicle.dll
